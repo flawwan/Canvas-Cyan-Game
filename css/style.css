@@ -1,0 +1,36 @@
+canvas {
+    position: absolute;
+    outline: 5px solid white;
+    left: 50%;
+    margin-left: -300px;
+    z-index: 30;
+}
+
+div {
+    text-align: center;
+    margin-bottom: 5px;
+    color: white;
+}
+
+#debug, #tempMSG, #debug2 {
+    color: white;
+    font-variant: small-caps;
+    font-family: Verdana, sans-serif;
+}
+
+#tempMSG {
+    font-size: 13px;
+}
+
+body {
+    background-color: black;
+}
+
+#howto {
+    width: 300px;
+    left:50%;
+    margin-left:-150px;
+    text-align: left;
+    position: absolute;
+    bottom: 0;
+}
